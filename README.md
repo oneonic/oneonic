@@ -6,7 +6,7 @@ Welcome to OneOnic Solutions' GitHub! We are a premier Shopify Partner and techn
 
 ## 🌟 About Us
 
-OneOnic Solutions is a leading provider of e-commerce and web development services, with over 9 years of experience. We specialize in creating seamless, high-converting Shopify experiences, tailored web applications, and digital products that bring your vision to life.
+OneOnic Solutions is a leading provider of e-commerce and web development services, with over 9+ years of experience. We specialize in creating seamless, high-converting Shopify experiences, tailored web applications, and digital products that bring your vision to life.
 
 ---
 
@@ -42,7 +42,7 @@ For more projects, check our portfolio: [OneOnic Portfolio](https://oneonic.com/
 
 ## 🌟 Why Choose OneOnic?
 
-- Certified **Shopify Partner** with 8+ years of expertise.
+- Certified **Shopify Partner** with 9+ years of expertise.
 - Proven track record of high-impact e-commerce solutions.
 - Worked with prominent teams like Jonathan Snow & Daniel Snow.
 - Trusted by hundreds of clients worldwide.
@@ -54,6 +54,7 @@ For more projects, check our portfolio: [OneOnic Portfolio](https://oneonic.com/
 - 🌐 Website: [www.oneonic.com](https://oneonic.com)
 - 📧 Email: [info@oneonic.com](mailto:info@oneonic.com)
 - 🏢 LinkedIn: [OneOnic Solutions](https://www.linkedin.com/company/oneonic/)
+- 📺 Shoify Partner: [OneOnic Solutions]([https://www.youtube.com/@oneonic](https://www.shopify.com/partners/directory/partner/oneonic-solutions))
 - 🎨 Dribbble: [oneonic](https://dribbble.com/oneonic)
 - 📺 YouTube: [OneOnic](https://www.youtube.com/@oneonic)
 
